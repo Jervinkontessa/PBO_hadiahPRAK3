@@ -50,7 +50,7 @@ class aplikasi_pendataanPesawat{
         
 	  
 	}
-	   System.out.println("masukkan Jumlah uang anda : ");
+	   System.out.print("masukkan Jumlah uang anda : ");
 		bayar = input.nextInt();
 		
 		kembalian =  bayar - harga;
